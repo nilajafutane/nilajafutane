@@ -14,6 +14,8 @@
 - Tools: Git, Jupyter Notebook, VS Code, Linux
 
 ## 🚀 Projects  
-- Project 1:** [Amazon Review Analysis] (
+- Project 1:** [Amazon Review Analysis] (https://github.com/nilajafutane/AL-tool-for-sentiment-analysis) - Sentiment analysis of Amazon reviews using Python, NLP, and machine learning. Developed during a Microsoft-Edunet Foundation AI internship.
+
+
 
 Thanks for visiting my profile! Feel free to connect or collaborate. 😊
